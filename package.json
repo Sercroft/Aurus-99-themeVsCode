@@ -1,0 +1,22 @@
+{
+    "name": "aurus--99",
+    "displayName": "Aurus '99",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "aurus-99",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurus '99",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aurus '99-color-theme.json"
+            }
+        ]
+    }
+}
